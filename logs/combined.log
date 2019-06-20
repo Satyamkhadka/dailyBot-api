@@ -1,0 +1,12 @@
+2019-06-16T16:11:59.063Z [ECOMMERCE] info: notNull Violation: bot.botResponseMessage cannot be null
+2019-06-16T16:14:25.729Z [ECOMMERCE] info: notNull Violation: bot.botResponseMessage cannot be null
+2019-06-16T16:15:29.897Z [ECOMMERCE] info: notNull Violation: bot.botResponseMessage cannot be null
+2019-06-16T16:16:11.887Z [ECOMMERCE] info: Field 'botResponseId' doesn't have a default value
+2019-06-16T16:23:07.000Z [ECOMMERCE] info: Field 'botResponseId' doesn't have a default value
+2019-06-16T16:57:08.534Z [ECOMMERCE] info: Unknown column 'id' in 'field list'
+2019-06-16T16:57:38.807Z [ECOMMERCE] info: Unknown column 'id' in 'field list'
+2019-06-16T16:59:44.647Z [ECOMMERCE] info: Field 'botResponseId' doesn't have a default value
+2019-06-16T17:01:27.879Z [ECOMMERCE] info: Validation error
+2019-06-16T17:01:58.150Z [ECOMMERCE] info: Validation error
+2019-06-16T17:03:53.979Z [ECOMMERCE] info: Field 'botResponseId' doesn't have a default value
+2019-06-16T17:03:57.670Z [ECOMMERCE] info: Field 'botResponseId' doesn't have a default value

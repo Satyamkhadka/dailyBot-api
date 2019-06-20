@@ -1,0 +1,22 @@
+{
+  "name": "dailybot-api",
+  "version": "1.0.0",
+  "description": "api provider for the dailybot web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satyam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "date-and-time": "*",
+    "express": "*",
+    "multer": "*",
+    "mysql2": "*",
+    "nodemon": "^1.19.1",
+    "sequelize": "*",
+    "winston": "*"
+  },
+  "devDependencies": {}
+}
